@@ -1,0 +1,64 @@
+<div align="center">
+
+![Kiran Pandey](https://capsule-render.vercel.app/api?type=waving&color=6D4AFF&height=180&section=header&text=Kiran%20Pandey&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20.NET%20%C2%B7%20React.js%20%C2%B7%20Next.js&descAlignY=72&descSize=18)
+
+### 👋 Hi, I'm Kiran, a Software Developer from Kathmandu, Nepal
+
+I build responsive, scalable web apps with **React.js** and **Next.js**,
+and connect them to **REST / .NET APIs** backed by **MS SQL Server**.
+
+[🌐 Portfolio](https://kiran-pandey-portfolio-react.vercel.app) &nbsp;•&nbsp;
+[💼 LinkedIn](https://linkedin.com/in/kiran-pandey22/) &nbsp;•&nbsp;
+[✉️ Email](https://mail.google.com/mail/?view=cm&fs=1&to=kiranmmm138@gmail.com) &nbsp;•&nbsp;
+[📄 Download CV](https://kiran-pandey-portfolio-react.vercel.app/Kiran_Pandey_Resume.pdf)
+
+</div>
+
+---
+
+## 🚀 What I'm up to
+
+- 💼 Software Developer at **Taskoria** (since July 2025)
+- 🏢 Building the **Life Insurance Portal**, a core insurance system (Next.js, .NET API, MS SQL Server)
+- 📚 Learning **C# and ASP.NET Core** to grow into full-stack .NET engineering
+- 🤖 **VoiceGuard**: deepfake voice detection to help prevent phone scams (PyTorch, Flask, Next.js)
+- 🎓 BSc (Hons) IT at Asia Pacific University (APU), 2023 – 2026
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+![Tech stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,html,css,python,pytorch,flask,dotnet,cs,git,github,postman,vscode,jest)
+
+</div>
+
+## 📌 Selected projects
+
+| Project | About |
+| --- | --- |
+| [**Portfolio**](https://kiran-pandey-portfolio-react.vercel.app) | My personal site: Next.js, Tailwind CSS, deployed on Vercel |
+| [**CodeEditor**](https://github.com/PandeyKiran7/CodeEditor) | Real-time code editor for HTML, CSS and JavaScript |
+| [**Netflix-Clone**](https://github.com/PandeyKiran7/Netflix-Clone) | Netflix-inspired UI with React.js and movie APIs |
+| [**E-commerce-Shop**](https://github.com/PandeyKiran7/E-commerce-Shop) | E-commerce app with cart and checkout |
+| [**gym-app**](https://github.com/PandeyKiran7/gym-app) | Gym management dashboard for members and classes |
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=PandeyKiran7&hide_border=true&background=15131C&ring=C8F53C&fire=C8F53C&currStreakLabel=C8F53C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A5A2B6&dates=A5A2B6" alt="GitHub streak" />
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=PandeyKiran7&show_icons=true&hide_border=true&bg_color=15131C&title_color=C8F53C&text_color=FFFFFF&icon_color=C8F53C" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PandeyKiran7&layout=compact&langs_count=8&hide_border=true&bg_color=15131C&title_color=C8F53C&text_color=FFFFFF" alt="Top languages" />
+
+</div>
+
+## 📫 Let's connect
+
+Open to work and collaborations. Ask me about React, Next.js and .NET API integration.
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6D4AFF&height=100&section=footer)
+
+</div>
