@@ -29,7 +29,11 @@ and connect them to **REST / .NET APIs** backed by **MS SQL Server**.
 
 <div align="center">
 
-![Tech stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,html,css,python,pytorch,flask,dotnet,cs,git,github,postman,vscode,jest)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,html,css" alt="Frontend" />
+<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,flask,dotnet,cs" alt="Backend" />&nbsp;&nbsp;<img src="assets/mssql.svg" width="48" height="48" alt="MS SQL Server" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" alt="Tools" />
 
 </div>
 
