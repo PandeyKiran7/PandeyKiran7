@@ -32,16 +32,6 @@ and connect them to **REST / .NET APIs** backed by **MS SQL Server**.
 
 </div>
 
-## 📌 Selected projects
-
-| Project | About |
-| --- | --- |
-| [**Portfolio**](https://kiran-pandey-portfolio-react.vercel.app) | My personal site: Next.js, Tailwind CSS, deployed on Vercel |
-| [**CodeEditor**](https://github.com/PandeyKiran7/CodeEditor) | Real-time code editor for HTML, CSS and JavaScript |
-| [**Netflix-Clone**](https://github.com/PandeyKiran7/Netflix-Clone) | Netflix-inspired UI with React.js and movie APIs |
-| [**E-commerce-Shop**](https://github.com/PandeyKiran7/E-commerce-Shop) | E-commerce app with cart and checkout |
-| [**gym-app**](https://github.com/PandeyKiran7/gym-app) | Gym management dashboard for members and classes |
-
 ## 📊 GitHub stats
 
 <div align="center">
