@@ -16,10 +16,6 @@ and connect them to **REST / .NET APIs** backed by **MS SQL Server**.
 
 ---
 
-## 👨‍💻 About me
-
-Software Developer at **Taskoria** who turns complex business workflows into fast, accessible interfaces, and is now growing into full-stack **.NET** with C# and ASP.NET Core.
-
 ## 📊 GitHub stats
 
 <div align="center">
