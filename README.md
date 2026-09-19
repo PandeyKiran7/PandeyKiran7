@@ -16,8 +16,6 @@ and connect them to **REST / .NET APIs** backed by **MS SQL Server**.
 
 ---
 
-## 📊 GitHub stats
-
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=PandeyKiran7&hide_border=true&background=15131C&ring=C8F53C&fire=C8F53C&currStreakLabel=C8F53C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A5A2B6&dates=A5A2B6" alt="GitHub streak" />
