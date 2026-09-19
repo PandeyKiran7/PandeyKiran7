@@ -16,21 +16,9 @@ and connect them to **REST / .NET APIs** backed by **MS SQL Server**.
 
 ---
 
-## 🚀 What I'm up to
+## 👨‍💻 About me
 
-- 💼 Software Developer at **Taskoria** (since July 2025)
-- 🏢 Building the **Life Insurance Portal**, a core insurance system (Next.js, .NET API, MS SQL Server)
-- 📚 Learning **C# and ASP.NET Core** to grow into full-stack .NET engineering
-- 🤖 **VoiceGuard**: deepfake voice detection to help prevent phone scams (PyTorch, Flask, Next.js)
-- 🎓 BSc (Hons) IT at Asia Pacific University (APU), 2023 – 2026
-
-## 🛠️ Tech stack
-
-<div align="center">
-
-![Tech stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,html,css,python,pytorch,flask,dotnet,cs,git,github,postman,vscode,jest)
-
-</div>
+Software Developer at **Taskoria** who turns complex business workflows into fast, accessible interfaces, and is now growing into full-stack **.NET** with C# and ASP.NET Core.
 
 ## 📊 GitHub stats
 
@@ -40,6 +28,14 @@ and connect them to **REST / .NET APIs** backed by **MS SQL Server**.
 
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=PandeyKiran7&show_icons=true&hide_border=true&bg_color=15131C&title_color=C8F53C&text_color=FFFFFF&icon_color=C8F53C" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PandeyKiran7&layout=compact&langs_count=8&hide_border=true&bg_color=15131C&title_color=C8F53C&text_color=FFFFFF" alt="Top languages" />
+
+</div>
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+![Tech stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,html,css,python,pytorch,flask,dotnet,cs,git,github,postman,vscode,jest)
 
 </div>
 
